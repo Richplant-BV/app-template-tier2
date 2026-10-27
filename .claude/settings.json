@@ -4,8 +4,7 @@
       "source": {
         "source": "github",
         "repo": "Richplant-BV/stagetwo-plugin-tier2"
-      },
-      "autoUpdate": true
+      }
     }
   },
   "enabledPlugins": {
